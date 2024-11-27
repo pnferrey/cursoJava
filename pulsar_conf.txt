@@ -1,0 +1,9 @@
+install package pulsar
+angular-2-typeScript-snippets
+atom-typescript
+atom-boostrap 3
+atom-boostrap 4
+v-atom boostrap 4
+platoformio-ide-terminal no he podido
+file_icons
+emmet
