@@ -7,3 +7,4 @@ v-atom boostrap 4
 platoformio-ide-terminal no he podido
 file_icons
 emmet
+configurar boostrat
